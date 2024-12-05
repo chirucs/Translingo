@@ -1,0 +1,9 @@
+torch
+numpy
+cupy-cuda112
+spacy
+datasets
+torchtext
+tqdm
+matplotlib
+evaluate
